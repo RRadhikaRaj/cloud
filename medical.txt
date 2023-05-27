@@ -1,4 +1,5 @@
 physioterophy
 cardiology
 gynoocology
-neuology
+neurology
+gastrology
